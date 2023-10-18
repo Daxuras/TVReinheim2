@@ -1,19 +1,19 @@
 ---
-title: Vue Date Picker
-emoji: 🗓
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Eltern-Kind-Turnen
+emoji: 👪
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
+summary: Lernt mit uns Laufen, Rennen, Klettern
+metaDescription: ""
 tags:
-  - javascript
-  - vue
-  - aws
+  - Turnen
 ---
+Beim Eltern-Kind-Turnen möchten wir mittels verschiedener Materialien (Bälle, Bänke, Kasten, Seile, Rollbretter, Trampolin, Tücher etc.) mit Spielen, Singen und Musik die körperliche und soziale Kompetenz der kleinen Kinder (Alter ca. 1 - 3 Jahre) fördern.\
+Im Rahmen der Turnstunde bietet sich die Möglichkeit über Bewegung (Laufen, Rennen, Klettern, Springen, Rollen, Balancieren) in allen Sinnen angesprochen zu werden, den eigenen Körper kennen zu lernen, ihn auszuprobieren und mit ihm umgehen zu lernen.\
+Die Eltern sind selbstverständlich nicht nur in der Turnstunde dabei, sondern sollen auch aktiv mitmachen und sind in das Geschehen eingebunden. Neben der motorischen Entwicklung bietet sich dadurch die Möglichkeit soziale Kontakte zu schließen, andere Eltern und Kinder kennen zu lernen und gemeinsam zu spielen, zu toben und zu turnen.
 
-### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+| **Termin** | **G﻿ruppe**                        | **Uhrzeit**    | **Ort**                     | **Übungsleiter** |
+| ---------- | ---------------------------------- | -------------- | --------------------------- | ---------------- |
+| M﻿ittwoch  | Eltern + Kinder\
+3﻿ Mon. - 3 Jahre | 16.00-17.00Uhr | TV 1888 Hermann-Pösch-Halle | Nicole Dorner    |
