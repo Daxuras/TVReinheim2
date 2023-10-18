@@ -2,7 +2,7 @@
 title: Badminton
 emoji: 🏸
 date: 2019-01-01T00:00:00.000Z
-summary: "Lust auf Badminton? Dann kommt vorbei! "
+summary: "Lust auf Badminton? Dann komm vorbei! "
 metaDescription: ""
 tags:
   - Badminton
