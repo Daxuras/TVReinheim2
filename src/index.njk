@@ -3,16 +3,11 @@ layout: base.njk
 section: home
 ---
 <div class="home-page">
-	<div class="home-page__bg-square"></div>
+	
 
   {# Hero #}
   <div class="hero">
-    <div class="hero__col">
-      <h1 class="hero__title gradient-text">{{ home.title }}</h1>
-      {% if home.body %}
-        <div class="hero__body">{{ home.body | markdown | safe }}</div>
-      {% endif %}
-    </div>
+
     <div class="hero__col">
       {% image
         home.image,

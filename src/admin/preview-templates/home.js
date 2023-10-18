@@ -12,14 +12,10 @@ const Home = createClass({
     return html`
       <main>
         <div class="home-page">
-          <div class="home-page__bg-square"></div>
+          
 
           <!-- Hero -->
           <div class="hero">
-            <div class="hero__col">
-              <h1 class="hero__title gradient-text">${entry.getIn(['data', 'title'], null)}</h1>
-              <div class="hero__body">${this.props.widgetFor('body')}</div>
-            </div>
             <div class="hero__col">
               <img
                 class="hero__image shadow"
