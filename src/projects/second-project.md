@@ -1,11 +1,12 @@
 ---
-title: Beckenbodentraining für Männer
+title: Beckenbodentraining
 emoji: 🤸‍♂️
 date: 2019-01-01T00:00:00.000Z
 summary: Macht mit um Inkontinenz zu behandeln oder dagegen vorzubeugen!
 metaDescription: ""
 tags:
   - Gesundheitssport
+  - Männer
 ---
 **Anfängerkurs und ganzjährige Übungsstunden**\
 \
