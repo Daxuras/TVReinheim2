@@ -1,19 +1,34 @@
 ---
-title: Cat Translation API
-emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Badminton
+emoji: 🏸
 date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
-tags:
-  - golang
-  - graphQL
-  - aws
+summary: >-
+  Lust auf Badminton? Dann kommt vorbei! Alle, die Interesse an unserem
+  Lieblingssport haben, sind bei uns richtig.
+
+
+  Egal ob ihr schon öfter gespielt habt, oder neu anfangen wollt, egal ob jung oder alt,  egal ob weiblich oder männlich, bei uns seid Ihr immer richtig.
+metaDescription: ""
+tags: []
 ---
+## Badminton
 
-### Task
+Lust auf Badminton? Dann kommt vorbei! Alle, die Interesse an unserem Lieblingssport haben, sind bei uns richtig.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Egal ob ihr schon öfter gespielt habt, oder neu anfangen wollt, egal ob jung oder alt,  egal ob weiblich oder männlich, bei uns seid Ihr immer richtig.
 
-### Solution
+[](https://www.badminton-reinheim.de)\
+Hier könnt Ihr alles finden, was Ihr über unseren und hoffentlich bald auch Euren Verein wissen wollt.\
+<https://www.badminton-reinheim.de>
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+| **Termin** | **Gruppen**               | **Uhrzeit**                         | **Ort**                                                                                  |
+| ---------- | ------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------- |
+|  Montag    | Kinder/Jugend Anfänger    | 17:30 - 18:30 Uhr                   | M﻿ehrzweckhalle Sprachbrücken                                                            |
+| Montag     | Kinder/Jugend Mannschaft  | 18:30 - 20:00 Uhr                   | M﻿ehrzweckhalle Sprachbrücken                                                            |
+| Montag     | Erwachsene (Freies Spiel) | 20:00 - 22:00 Uhr                   | M﻿ehrzweckhalle Sprachbrücken                                                            |
+| Dienstag   | Freies Training           | 18:00 - 19:30 Uhr (Sommerhalbjahr*) | [HirschbachhalleZeilhard](https://www.badminton-reinheim.de/sporthallen#Hirschbachhalle) |
+| Dienstag   | Freies Training           | 19:30 - 20:30 Uhr (Winterhalbjahr*) | [HirschbachhalleZeilhard](https://www.badminton-reinheim.de/sporthallen#Hirschbachhalle) |
+| Donnerstag | Kinder/Jugend Anfänger    | 17:00 - 18:00 Uhr                   | [HirschbachhalleZeilhard](https://www.badminton-reinheim.de/sporthallen#Hirschbachhalle) |
+| Donnerstag | Erwachsene                | 18:00 - 19:30 Uhr                   | [HirschbachhalleZeilhard](https://www.badminton-reinheim.de/sporthallen#Hirschbachhalle) |
+| Donnerstag | Erwachsene (Training)     | 19:30 - 22:00 Uhr                   | [HirschbachhalleZeilhard](https://www.badminton-reinheim.de/sporthallen#Hirschbachhalle) |
+| Donnerstag | Erwachsene (Freies Spiel) | 20:30 - 22:00 Uhr                   | [HirschbachhalleZeilhard](https://www.badminton-reinheim.de/sporthallen#Hirschbachhalle) |
