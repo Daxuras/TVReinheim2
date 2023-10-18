@@ -4,7 +4,8 @@ emoji: 🏸
 date: 2019-01-01T00:00:00.000Z
 summary: "Lust auf Badminton? Dann kommt vorbei! "
 metaDescription: ""
-tags: []
+tags:
+  - Badminton
 ---
 ## Badminton
 
