@@ -6,7 +6,7 @@ summary: "Lust auf Badminton? Dann kommt vorbei! "
 metaDescription: ""
 tags:
   - Badminton
-  - TV_Zeilhard
+  - TVZ
 ---
 ## Badminton
 
