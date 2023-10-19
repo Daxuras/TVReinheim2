@@ -4,7 +4,7 @@ emoji: 🚶🏽‍♂️
 date: 2023-10-19T17:57:53.699Z
 summary: Für jede Frau, für jeden Mann, schon sporttreibend oder nicht.
 tags:
-  - post
+  - Gesundheitssport
 ---
 **Übungsleiter:**\
 Klaus Vollmer \
