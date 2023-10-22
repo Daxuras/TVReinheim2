@@ -6,6 +6,14 @@ summary: Ohne ausreichendes Trinken beim Sport... läuft nix Aber was genau hei�
 tags:
   - Fitness/Freizeit
 ---
+**A﻿bteilungsleiter:**\
+U﻿lrich Germann\
+T﻿el. 06162/2641
+
+**Ü﻿bungsleiter:**\
+F﻿ranz Fischer\
+\
+\
 Im engeren Sinne steht die Bezeichnung **Boule** (frz. la boule „die Kugel“, der „Ball“) nur kurz für die Kugelsportart Boule Lyonnaise, das sogenannte „Sport-Boule“. Der Freizeitsport erfreut sich im Verein großer Beliebtheit. Auf sechs bestens präparierten Plätzen wird je nach Witterung ab März/April bis Ende Oktober immer Montags und Donnerstags geboult. Regelmäßig sind immer bis zu dreißig Spieler anwesend. Es werden wechselnde Paarungen ausgelost, welche dann gegeneinander antreten. Es wird auch eine Vereinsmeisterschaft ausgespielt.
 
 | Gruppen | Termin     | Uhrzeit           | Ort        | Übungsleiter  |
