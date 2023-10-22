@@ -4,7 +4,7 @@ emoji: 🏀
 date: 2023-10-19T05:58:42.664Z
 summary: " Passen, freilaufen, werfen und Gemeinschaft im Basketball"
 tags:
-  - Freizeit
+  - Fitness/Freizeit
 ---
 In der Gruppe **Basketball** treffen sich junge Erwachsene zum gemeinsamen Training. Es werden die Grundfertigkeiten und Regeln des Basketball-Spiels vermittelt. Nach Aufwärm- und Dehnübungen werden Wurf- und Spieltechniken geübt, die anschließend im Spiel umgesetzt werden sollen.
 
