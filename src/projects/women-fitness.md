@@ -5,7 +5,7 @@ date: 2023-10-22T11:07:23.499Z
 summary: "Die Übungen werden in der Gruppe speziell auf ihre Bedürfnisse in
   abgestimmter Anleitung durchgeführt. "
 tags:
-  - Freizeit
+  - Fitness/Freizeit
 ---
 **Ü﻿bungsleiterin:**\
 G﻿rudrun Körkel
