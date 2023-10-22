@@ -1,10 +1,10 @@
 ---
 layout: projects.njk
-title: Projects
+title: Abteilungen
+subtitle: Hier sind alle Abteilungen aufgelistet, die der TV Reinheim aktuell hat
+metaDescription: A sample Projects page
 date: 2021-01-01
 permalink: /projects/index.html
-metaDescription: A sample Projects page
-subtitle: This is the page where all projects will live
 emoji: 💻
 eleventyNavigation:
   key: Projects
