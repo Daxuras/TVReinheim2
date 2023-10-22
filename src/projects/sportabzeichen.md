@@ -8,11 +8,13 @@ summary: Das Deutsche Sportabzeichen setzt durch drei Leistungsstufen auf den
 tags:
   - Fitness/Freizeit
 ---
+**A﻿bteilungsleiter:**\
+U﻿lrich Germann\
+T﻿el. 06162/2641\
+\
 **Ansprechpartner:** \
 Martin Staude\
 Tel. 06162 / 941916
-
-
 
 Das Deutsche Sportabzeichen kann jeder machen, unabhängig davon, ob er Mitglied eines Sportvereins ist oder nicht. Von sechs Jahren an können die Kleinen für das Kindersportabzeichen antreten, von 18 Jahren an geht es um das Abzeichen für Erwachsene. Auch für Menschen mit Behinderung gibt es die Möglichkeit das Sportabzeichen abzulegen.\
 Das Deutsche Sportabzeichen setzt durch drei Leistungsstufen auf den Anreiz zur Vorbereitung und Leistungssteigerung durch Training sowie auf lebensbegleitendes Sporttreiben. Es ist ein Idealangebot für alle Menschen, die entsprechend ihren Neigungen und Fähigkeiten Sport treiben und einen qualitativ abgesicherten Fitnesstest ablegen wollen.\
