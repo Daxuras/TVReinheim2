@@ -17,8 +17,9 @@ Wichtig ist den Teilnehmerinnen die Bewegung in der Gruppe unter speziell auf ih
 
 
 
-| Capoeira                              | Montag   | 19.30 - 20.30 Uhr | TV 1888 Hermann-Pösch-Halle | Reginaldo Weidtman |
+| G﻿ruppe | T﻿ermin | U﻿hrzeit | O﻿rt | Ü﻿bungsleiter |
 | ------------------------------------- | -------- | ----------------- | --------------------------- | ------------------ |
+| Capoeira                              | Montag   | 19.30 - 20.30 Uhr | TV 1888 Hermann-Pösch-Halle | Reginaldo Weidtman |
 | Capoeira für Kinder ab 4 Jahren       | Mittwoch | 16.45 - 17.30 Uhr | TV 1888 Hermann-Pösch-Halle | Reginaldo Weidtman |
 | Capoeira für Jugendliche ab 12 Jahren | Mittwoch | 17.30 - 18.30 Uhr | TV 1888 Hermann-Pösch-Halle | Reginaldo Weidtman |
 | Capoeira                              | Mittwoch | 18.30 - 20.30 Uhr | TV 1888 Hermann-Pösch-Halle | Reginaldo Weidtman |
