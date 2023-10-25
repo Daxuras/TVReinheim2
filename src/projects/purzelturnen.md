@@ -2,8 +2,8 @@
 title: Purzelturnen
 emoji: 🐾🐣
 date: 2023-10-19T20:03:42.142Z
-summary: Wir wollen grundlegende motorische Fähigkeiten vermitteln, die
-  Koordination fördern und das soziale Miteinander pflegen
+summary: "Wir vermitteln motorische Fähigkeiten, die Koordination und pflegen
+  das soziale Miteinander:"
 tags:
   - Turnen
 ---
