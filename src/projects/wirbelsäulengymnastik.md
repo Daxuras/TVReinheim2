@@ -2,8 +2,7 @@
 title: Wirbelsäulengymnastik
 emoji: 🏋🏼‍♀️
 date: 2023-10-22T10:54:56.366Z
-summary: Ihr habt schmerzen im Rücken oder wollt präventiv Handeln? Dann ist
-  dieser Kurs genau das richtige für sie!
+summary: Ihr habt schmerzen im Rücken oder wollt präventiv Handeln, dann komm vorbei!
 tags:
   - Gesundheitssport
 ---
