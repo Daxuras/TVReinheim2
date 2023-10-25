@@ -2,9 +2,7 @@
 title: Sportabzeichen
 emoji: 🏁
 date: 2023-10-22T11:16:28.575Z
-summary: Das Deutsche Sportabzeichen setzt durch drei Leistungsstufen auf den
-  Anreiz zur Vorbereitung und Leistungssteigerung durch Training sowie auf
-  lebensbegleitendes Sporttreiben.
+summary: Ob Couchpotatoe oder Fitnesscrack, rein in die Sportschuhe.
 tags:
   - Fitness/Freizeit
 ---
