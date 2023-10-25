@@ -2,8 +2,7 @@
 title: Leichtathletik
 emoji: 🏃‍♂️
 date: 2023-10-19T16:08:53.644Z
-summary: Wenn man.. vier Meter vor der Matte abspringt und aus sechs Metern Höhe
-  runterfällt, kommt das Fliegen schon sehr nahe.
+summary: Wir lernen Laufen, Sprinten, Springen, Werfen und Stoßen.
 tags:
   - Leichtathletik
 ---
