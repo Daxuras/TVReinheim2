@@ -2,9 +2,8 @@
 title: Leichtathletik
 emoji: 🏃‍♂️
 date: 2023-10-19T16:08:53.644Z
-summary: Stabhochsprung ist die geilste Sportart, die es gibt. Wenn man mit so
-  einem Prügel anläuft, vier Meter vor der Matte abspringt und aus sechs Metern
-  Höhe runterfällt, kommt das Fliegen schon sehr nahe.
+summary: Wenn man.. vier Meter vor der Matte abspringt und aus sechs Metern Höhe
+  runterfällt, kommt das Fliegen schon sehr nahe.
 tags:
   - Leichtathletik
 ---
