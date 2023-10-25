@@ -2,8 +2,8 @@
 title: Kinderturnen
 emoji: 🤸🏽‍♂️
 date: 2023-10-19T17:39:19.181Z
-summary: In diesen beiden Gruppen kommen Jungen mit Spaß am Turnen und Spielen
-  einmal wöchentlich zu einer Übungszeit zusammen.
+summary: Es geht bei uns um Freude an Bewegung und die allgemeine körperliche
+  Fitness der Jungs.
 tags:
   - Turnen
 ---
