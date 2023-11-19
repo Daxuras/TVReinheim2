@@ -1,5 +1,5 @@
 ---
-title: Funktionsgymnastik
+title: Funktions-Gymnastik
 emoji: 🏋️‍♀️
 date: 2023-10-19T15:33:15.853Z
 summary: Mit diesem Training erreichst Du Ausgleich zwischen Körper und Geist!

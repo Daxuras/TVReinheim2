@@ -1,5 +1,5 @@
 ---
-title: Beckenbodentraining
+title: Beckenboden-Training
 emoji: 🤸‍♂️
 date: 2019-01-01T00:00:00.000Z
 summary: Mach mit um Inkontinenz zu behandeln oder dagegen vorzubeugen!

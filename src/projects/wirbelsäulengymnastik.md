@@ -1,5 +1,5 @@
 ---
-title: Wirbelsäulengymnastik
+title: Wirbelsäulen-Gymnastik
 emoji: 🏋🏼‍♀️
 date: 2023-10-22T10:54:56.366Z
 summary: Ihr habt schmerzen im Rücken oder wollt präventiv Handeln, dann komm vorbei!
