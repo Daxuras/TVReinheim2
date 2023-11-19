@@ -6,11 +6,7 @@ summary: Das Ziel von Yoga ist es, den Geist zur Ruhe zu bringen.
 tags:
   - Gesundheitssport
 ---
-
-
-
-
-![](/src/assets/img/ina_2022.jpg)
+![](/src/assets/img/yoga1.jpg)
 
 **Übungsleiterin:**\
 Ina Eisenhauer
