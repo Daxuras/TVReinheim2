@@ -6,6 +6,8 @@ summary: Für jede Frau, für jeden Mann, schon sporttreibend oder nicht.
 tags:
   - Gesundheitssport
 ---
+![](/src/assets/img/nordic-walking.jpg)
+
 **Übungsleiter:**\
 Klaus Vollmer \
 Tel. 0173 9497277
