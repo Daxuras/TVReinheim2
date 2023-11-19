@@ -8,13 +8,11 @@ tags:
   - Volleyball
   - Outdoor
 ---
-
-
-
-
 **Abteilungsleiterin:** \
 Ann-Christine Schneider \
 Tel. 0151/21663618
+
+
 
 | **Gruppen**             | **Termin** | **Uhrzeit**       | **Ort**                    |
 | ----------------------- | ---------- | ----------------- | -------------------------- |
