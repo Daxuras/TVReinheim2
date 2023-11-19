@@ -6,6 +6,8 @@ summary: Wir lernen Laufen, Sprinten, Springen, Werfen und Stoßen.
 tags:
   - Leichtathletik
 ---
+![](/src/assets/img/leichtathletik.jpg)
+
 **Abteilungsleiter:**\
 Sven Scherer \
 Dilsbachstrasse 7 64354 Reinheim  \
