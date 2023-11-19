@@ -6,16 +6,14 @@ summary: Mit diesem Training erreichst Du Ausgleich zwischen Körper und Geist!
 tags:
   - Gesundheitssport
 ---
+![](/src/assets/img/funktionsgymnastik.jpg)
+
 **Übungsleiterin:**\
-Inke Schiradin\
-\
+Inke Schiradin
 
-<!--StartFragment-->
-
-| G﻿ruppe                | T﻿ag    | U﻿hrzeit          | O﻿rt     |  Übungsleiter|
-| ---------------------- | ------- | ----------------- | -------- | ------------------------ |
-| A﻿lle | Mittwoch | 18.00–19.00 Uhr | TV Halle |  Inke Schiradin |
-
+| G﻿ruppe | T﻿ag     | U﻿hrzeit        | O﻿rt     | Übungsleiter    |
+| ------- | -------- | --------------- | -------- | --------------- |
+| A﻿lle   | Mittwoch | 18.00–19.00 Uhr | TV Halle |  Inke Schiradin |
 
 \
 Suchst Du ein Trainingsprogramm, das dein eigentliches Sportpensum ergänzt und unterstützt, dann bist Du hier genau richtig!\
