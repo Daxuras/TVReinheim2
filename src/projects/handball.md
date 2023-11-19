@@ -8,8 +8,8 @@ tags:
   - MSGRoßdorf/Reinheim
   - SKGRoßdorf
 ---
+![](/src/assets/img/handball-msg.jpg)
+
 Eine Initiative der MSG Roßdorf/Reinheim, SKG Roßdorf Abtl. Handball, TV88 Reinheim, Handballförderverein Roßdorf und des Förderkreis Abteilung Handball Reinheim
 
-
-
-<http://www.tv88-handball.de>
+<https://handball.skg-rossdorf.de>
