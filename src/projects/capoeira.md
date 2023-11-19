@@ -8,6 +8,8 @@ tags:
   - Fitness/Freizeit
   - Tanz
 ---
+![](/src/assets/img/capoeira.jpg)
+
 **A﻿bteilungsleiter:**\
 U﻿lrich Germann\
 T﻿el. 06162/2641
