@@ -12,7 +12,7 @@ tags:
 Ann-Christine Schneider \
 Tel. 0151/21663618
 
-![](/src/assets/img/TV_Halle.jpg)
+![](/src/assets/img/volleyball.jpg)
 
 | **Gruppen**             | **Termin** | **Uhrzeit**       | **Ort**                    |
 | ----------------------- | ---------- | ----------------- | -------------------------- |
