@@ -10,7 +10,7 @@ permalink: /contact/index.html
 subtitle: Contact Subtitle
 eleventyNavigation:
   key: Kontakt
-  order: 4
+  order: 10
 ---
 
 The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
