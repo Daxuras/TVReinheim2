@@ -1,7 +1,7 @@
 ---
 layout: blog.njk
-title: Articles
-metaDescription: A sample Blog page listing various posts.
+title: Aktuelles
+metaDescription: ""
 date: 2017-01-01
 pagination:
   data: collections.post
