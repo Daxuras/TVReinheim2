@@ -8,5 +8,5 @@ permalink: /projects/index.html
 emoji: 💻
 eleventyNavigation:
   key: Abteilungen
-  order: 3
+  order: 1
 ---
