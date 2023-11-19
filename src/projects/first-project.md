@@ -8,7 +8,7 @@ tags:
   - Badminton
   - TVZ
 ---
-## Badminton
+![](/src/assets/img/badminton.jpg)
 
 Lust auf Badminton? Dann kommt vorbei! Alle, die Interesse an unserem Lieblingssport haben, sind bei uns richtig.
 
