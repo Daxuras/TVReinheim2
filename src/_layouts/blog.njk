@@ -3,7 +3,9 @@ layout: base.njk
 section: blog
 permalink: /blog/index.html
 ---
+
 <div class="page-container">
+<script type="text/javascript" src="https://www.juicer.io/embed/markus_daxu/embed-code.js" async defer></script>
   <h1>{{title}}</h1>
   {{ layoutContent | safe }}
 	<hr/>
@@ -13,6 +15,7 @@ permalink: /blog/index.html
   {{ articlelist(
     articles = pagination.items | reverse,
     show_tags = true
+   
   ) }}
 
   {# Pagination #}

@@ -11,5 +11,5 @@ permalink: blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber
 subtitle: A collection of technical blog posts and random thoughts
 eleventyNavigation:
   key: Aktuelles
-  order: 3
+  order: 2
 ---
