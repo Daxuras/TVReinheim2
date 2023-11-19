@@ -8,6 +8,10 @@ tags:
   - Volleyball
   - Outdoor
 ---
+
+
+
+
 **Abteilungsleiterin:** \
 Ann-Christine Schneider \
 Tel. 0151/21663618
@@ -18,8 +22,6 @@ Tel. 0151/21663618
 | Jugendliche ab 12 Jahre | Freitag    | 19.00 - 20.00 Uhr | Sporthalle am Sportzentrum |
 | Freizeitgruppe          | Mittwoch   | 20.30 - 22.00 Uhr | Sporthalle am Sportzentrum |
 | Freizeitgruppe          | Freitag    | 20.30 - 22.00 Uhr | Sporthalle am Sportzentrum |
-
- 
 
 Interessenten, die Lust am Volleyballsport haben, können sich bei der Abteilungsleiterin informieren oder gleich im Training vorbeischauen.\
 \
