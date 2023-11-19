@@ -6,6 +6,10 @@ summary: Ohne ausreichendes Trinken beim Sport... läuft nix Aber was genau hei�
 tags:
   - Fitness/Freizeit
 ---
+![](/src/assets/img/boule.jpg)
+
+
+
 **A﻿bteilungsleiter:**\
 U﻿lrich Germann\
 T﻿el. 06162/2641
