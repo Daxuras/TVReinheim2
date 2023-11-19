@@ -7,9 +7,9 @@ summary: Es macht einfach Spaß ein Seil irgendwie unter, neben, hinter oder um
 tags:
   - Turnen
 ---
-**Rope Skipping**
 
-![](/src/assets/img/TV_Halle.jpg)
+
+![](/src/assets/img/dsc_1405.jpg)
 
 \
 Übungsleiterinnen: \
