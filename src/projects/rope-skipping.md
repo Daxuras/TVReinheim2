@@ -7,12 +7,10 @@ summary: Es macht einfach Spaß ein Seil irgendwie unter, neben, hinter oder um
 tags:
   - Turnen
 ---
-
-
 ![](/src/assets/img/dsc_1405.jpg)
 
 \
-Übungsleiterinnen: \
+**Übungsleiterinnen:** \
 Julia  Bauer\
 Sharan Karim\
 J﻿ulia Ewald\
