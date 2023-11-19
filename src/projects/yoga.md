@@ -6,18 +6,20 @@ summary: Das Ziel von Yoga ist es, den Geist zur Ruhe zu bringen.
 tags:
   - Gesundheitssport
 ---
+
+
+
+
+![](/src/assets/img/ina_2022.jpg)
+
 **Übungsleiterin:**\
 Ina Eisenhauer
 
-
-
 | **Gruppen**                   | **Termin** | **Uhrzeit**        | **Ort**                | **Übungsleiter** |
 | ----------------------------- | ---------- | ------------------ | ---------------------- | ---------------- |
-|  Mittelstufe                  | Dienstag   | ﻿18.00 – 19.15 Uhr | Bürgerhaus in Ueberau  | Ina Eisenhauer   |
+| Mittelstufe                   | Dienstag   | ﻿18.00 – 19.15 Uhr | Bürgerhaus in Ueberau  | Ina Eisenhauer   |
 | Einsteiger/Mittelstufe        | Dienstag   | 19.15 – 20.30      | Bürgerhaus in Ueberau  | Ina Eisenhauer   |
-|  Mittelstufe/Fortgeschrittene | ﻿Dienstag  |  20.30 – 21.45     |  Bürgerhaus in Ueberau |  Ina Eisenhauer  |
-
-
+|  Mittelstufe/Fortgeschrittene | ﻿Dienstag  | 20.30 – 21.45      |  Bürgerhaus in Ueberau |  Ina Eisenhauer  |
 
 \
 Nach der pandemiebedingten Zwangspause treffen wir uns wieder zum gemeinsamen Yoga im Bürgerhaus in Ueberau.
