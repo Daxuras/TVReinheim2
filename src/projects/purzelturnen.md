@@ -7,9 +7,11 @@ summary: "Wir vermitteln motorische Fähigkeiten, die Koordination und pflegen
 tags:
   - Turnen
 ---
+![](/src/assets/img/_dsc0467.jpg)
+
+
+
 Purzelturnen ist für Kinder von 3 bis 6 Jahren. Bei Interesse bitte in der Geschäftsstelle melden:
-
-
 
 | **Gruppen**              | **Termin** | **Uhrzeit**       | **Ort**                     | **Übungsleiter** |
 | ------------------------ | ---------- | ----------------- | --------------------------- | ---------------- |
