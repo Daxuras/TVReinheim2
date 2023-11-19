@@ -9,6 +9,8 @@ tags:
 ---
 **Rope Skipping**
 
+![](/src/assets/img/TV_Halle.jpg)
+
 \
 Übungsleiterinnen: \
 Julia  Bauer\
@@ -17,20 +19,12 @@ J﻿ulia Ewald\
 M﻿ayra Stöhr\
 L﻿otta Kaufmann
 
-
-
 | **Gruppen**                     | **Termin** | **Uhrzeit**      | **Ort**  | **Übungsleiter**              |
 | ------------------------------- | ---------- | ---------------- | -------- | ----------------------------- |
 | R﻿ope-Skipping                  | Montag     | 1﻿6.00-18.00 Uhr | TV-Halle | S﻿haran Karim & Julia Bauer   |
 | R﻿ope-Skipping Fortgeschrittene | Mittwoch   | 1﻿6.00-18.00 Uhr | TV-Halle | J﻿ulia Bauer                  |
 | R﻿ope-Skipping Anfänger         | F﻿reitag   | 1﻿4.30-16.00 Uhr | TV-Halle | M﻿ayra Stöhr & Julia Ewald    |
 | R﻿ope-Skipping Fortgeschrittene | Freitag    | 1﻿6.00-18.00 Uhr | TV-Halle | J﻿ulia Ewald & Lotta Kaufmann |
-
-
-
-
-
-
 
 Rope Skipping - das etwas andere Seilspringen.\
 Es macht einfach Spaß ein Seil irgendwie unter, neben, hinter oder um den Körper zu bewegen. Das finden ca. 50 junge Seilspringerinnen und einige Seilspringer so, wenn sie in drei unterschiedlichen Gruppen in der Halle des TV 1888 Rope Skipping trainieren.\
