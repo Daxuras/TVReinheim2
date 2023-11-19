@@ -12,7 +12,7 @@ tags:
 Ann-Christine Schneider \
 Tel. 0151/21663618
 
-
+![](/src/assets/img/TV_Halle.jpg)
 
 | **Gruppen**             | **Termin** | **Uhrzeit**       | **Ort**                    |
 | ----------------------- | ---------- | ----------------- | -------------------------- |
