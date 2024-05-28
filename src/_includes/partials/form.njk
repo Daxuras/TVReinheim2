@@ -1,26 +1,183 @@
 <form class="contact-form" name="contact" method="POST" data-netlify="true">
-  <label for="name">Name</label>
-  <input
-    type="text"
-    name="name"
-    id="name"
-    autocomplete="name"
-    placeholder="Your name"
-    title="Please enter your name"
-    required
-  >
-  <label for="email">Email</label>
-  <input
-    type="email"
-    name="email"
-    id="email"
-    autocomplete="email"
-    placeholder="Your email address"
-    title="The domain portion of the email address is invalid (the portion after the @)."
-    pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"
-    required
-  >
-  <label for="message">Message</label>
-  <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
-  <button class="contact-form__submit btn" type="submit" name="submit">Send Message</button>
-</form>
+ <form action="/mitgliedschaft" method="post">
+        <label for="name">Name:</label>
+        <input
+            type="text"
+            id="name"
+            name="name"
+            required
+            placeholder="Dein Name"
+        ><br>
+
+        <label for="angehoeriger">Ist ein Angehöriger bereits Mitglied?</label>
+        <input
+            type="checkbox"
+            id="angehoeriger"
+            name="angehoeriger"
+        ><br>
+
+        <label for="vorname">Vorname:</label>
+        <input
+            type="text"
+            id="vorname"
+            name="vorname"
+            placeholder="Dein Vorname"
+        ><br>
+
+        <label for="strasse">Straße, Hausnummer:</label>
+        <input
+            type="text"
+            id="strasse"
+            name="strasse"
+            placeholder="Deine Straße und Hausnummer"
+        ><br>
+
+        <label for="plz">PLZ:</label>
+        <input
+            type="text"
+            id="plz"
+            name="plz"
+            placeholder="Deine PLZ"
+        ><br>
+
+        <label for="wohnort">Wohnort:</label>
+        <input
+            type="text"
+            id="wohnort"
+            name="wohnort"
+            placeholder="Dein Wohnort"
+        ><br>
+
+        <label for="telefon">Telefon:</label>
+        <input
+            type="tel"
+            id="telefon"
+            name="telefon"
+            placeholder="Deine Telefonnummer"
+        ><br>
+
+        <label for="geburtsdatum">Geburtsdatum:</label>
+        <input
+            type="date"
+            id="geburtsdatum"
+            name="geburtsdatum"
+        ><br>
+
+        <label for="email">E-Mail:</label>
+        <input
+            type="email"
+            id="email"
+            name="email"
+            required
+            placeholder="Deine E-Mail-Adresse"
+        ><br>
+
+        <!-- Weitere Felder für Geschlecht, Erziehungsberechtigte(r), etc. -->
+
+        <label for="beitragszahlung">Beitragszahlung:</label>
+        <input
+            type="radio"
+            id="jaehrlich"
+            name="beitragszahlung"
+            value="jaehrlich"
+        >
+        <label for="jaehrlich">jährlich</label>
+        
+        <input
+            type="radio"
+            id="halbjaehrlich"
+            name="beitragszahlung"
+            value="halbjaehrlich"
+        >
+
+        <label for="halbjaehrlich">halbjährlich</label><br>
+        <br>
+
+        <label for="angehoeriger">Ist ein Angehöriger bereits Mitglied?</label>
+        <input
+            type="checkbox"
+            id="angehoeriger"
+            name="angehoeriger"
+        ><br>
+ <!-- Beiträge -->
+        <h2>Beiträge</h2>
+        <p>Erwachsene: monatlich € 12,00</p>
+        <p>Familienbeitrag: monatlich € 24,00 (Kinder bis 3 Jahre beitragsfrei; ein Elternteil muss Mitglied sein)</p>
+        <p>Kinder und Jugendliche bis zum 18. Lebensjahr: monatlich € 8,00</p>
+        <p>Schüler, Auszubildende, Studenten über 18 Jahre: monatlich € 8,00</p>
+        <p>Rentner aktiv Sport treibend: monatlich € 7,00</p>
+        <p>Passive Mitgliedschaft: monatlich € 4,00</p>
+        <p>Schwerbehinderte (Behinderung ab 60%): monatlich € 4,00 (gegen Vorlage eines entsprechenden Nachweises)</p>
+        <p>Aufnahmegebühr: einmalig € 10,00</p>
+        <p>Bei einigen Sparten werden Zusatzbeiträge erhoben in der Steuererklärung</p>
+
+
+        <!-- Abteilungen -->
+        <fieldset>
+            <legend>Abteilung/en / Sparte/n:</legend>
+            <label><input type="checkbox" name="abteilung" value="Badminton"> Badminton</label><br>
+            <label><input type="checkbox" name="abteilung" value="Fitness"> Fitness / Freizeitsport</label><br>
+            <label><input type="checkbox" name="abteilung" value="Basketball"> Basketball </label><br>
+            <label><input type="checkbox" name="abteilung" value="Capoeira"> Capoeira </label><br>
+            <label><input type="checkbox" name="abteilung" value="Boule"> Petanque / Boule </label><br>
+            <label><input type="checkbox" name="abteilung" value="Wandern"> Wandern </label><br>
+            <label><input type="checkbox" name="abteilung" value="Women Fitness"> Women Fitness </label><br>
+            <label><input type="checkbox" name="abteilung" value="Zumba"> Zumba </label><br>
+            <label><input type="checkbox" name="abteilung" value="Gesundheitssport"> Gesundheitssport </label><br>
+            <label><input type="checkbox" name="abteilung" value="Beckenbodengymnastik Männer"> Beckenbodengymnastik Männer </label><br>
+            <label><input type="checkbox" name="abteilung" value="Fit am Morgen"> Fit am Morgen </label><br>
+            <label><input type="checkbox" name="abteilung" value="Rehasport"> Rehasport </label><br>
+            <label><input type="checkbox" name="abteilung" value="Körper in Balance"> Körper in Balance </label><br>
+            <label><input type="checkbox" name="abteilung" value="Wirbelsäulengymnastik"> Wirbelsäulengymnastik </label><br>
+            <label><input type="checkbox" name="abteilung" value="Yoga"> Yoga </label><br>
+            <label><input type="checkbox" name="abteilung" value="Handball"> Handball </label><br>
+            <label><input type="checkbox" name="abteilung" value="Leichtathletik"> Leichtathletik </label><br>
+            <label><input type="checkbox" name="abteilung" value="Ski Team"> Ski Team </label><br>
+            <label><input type="checkbox" name="abteilung" value="Funktionsgymnastik"> Funktionsgymnastik </label><br>
+            <label><input type="checkbox" name="abteilung" value="Tischtennis"> Tischtennis </label><br>
+            <label><input type="checkbox" name="abteilung" value="Turnen / Gymnastik"> Turnen / Gymnastik </label><br>
+            <label><input type="checkbox" name="abteilung" value="Eltern und Kind"> Eltern und Kind </label><br>
+            <label><input type="checkbox" name="abteilung" value="Purzelturnen 3-6 Jahre"> Purzelturnen 3-6 Jahre </label><br>
+            <label><input type="checkbox" name="abteilung" value="Kinderturnen"> Kinderturnen </label><br>
+            <label><input type="checkbox" name="abteilung" value="Rope Skipping"> Rope Skipping </label><br>
+            <label><input type="checkbox" name="abteilung" value="Gymnastik"> Gymnastik </label><br>
+            <label><input type="checkbox" name="abteilung" value="Parkour"> Parkour </label><br>
+            <label><input type="checkbox" name="abteilung" value="Volleyball"> Volleyball </label><br>
+            <!-- Weitere Abteilungen hier einfügen -->
+        </fieldset>
+        
+        <!-- Checkboxen für Datenschutz und Vereinssatzung -->
+        <h2>Zustimmung</h2>
+        <label>
+            <input type="checkbox" name="datenschutz" required>
+            Ich stimme der Speicherung, Übermittlung und Verarbeitung personenbezogener Daten für Vereinszwecke gemäß den Bestimmungen des Datenschutzgesetzes zu.
+        </label>
+        <br>
+        <label>
+            <input type="checkbox" name="bilder" required>
+            Ich stimme der Verwendung von Bildern ausschließlich im Zusammenhang mit Aktivitäten des Vereins zu.
+        </label>
+        
+        </label>
+
+        <!-- Zusätzliche Informationen -->
+        <h2>Zusätzliche Informationen</h2>
+        <p>Datum: Unterschrift/en: Reinheim</p>
+        <p>(Bei Minderjährigen die Unterschrift/en der/des Erziehungsberechtigten)</p>
+        <p>Aufnahme Minderjähriger: Wir geben unsere Zustimmung als gesetzliche Vertreter zur Aufnahme in den Verein und haften diesem gegenüber für die Entrichtung des Mitgliedsbeitrages. Sofern diese Unterschrift nur von einer Person geleistet wird, bestätigt diese ausdrücklich, dass Alleinvertretungsberechtigung besteht.</p>
+        <p>Die Zahlung des Mitgliedsbeitrags ist nur über ein SEPA-Lastschriftmandat möglich (siehe Rückseite).</p>
+
+        <!-- SEPA-Lastschriftmandat -->
+        <h2>SEPA-Lastschriftmandat</h2>
+        <p>Ich ermächtige den TV 1888 Reinheim e.V., Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von dem TV 1888 Reinheim e.V. auf mein Konto gezogenen Lastschriften einzulösen.</p>
+        <p>Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.</p>
+        <p>Kreditinstitut (Name und BIC)</p>
+        <p>IBAN: DE --/----/----/----/----/--</p>
+        <p>bei Kind: Dieses SEPA-Lastschriftmandat gilt für die Mitgliedschaft von Name, Vorname</p>
+        <p>Datum, Ort und Unterschrift</p>
+        <p>Vor dem ersten Einzug einer SEPA-Basis-Lastschrift wird mich der TV 1888 Reinheim
+        
+        
+        <br>
+        <input type="submit" value="Absenden">
+    </form>
