@@ -76,7 +76,7 @@
     appearance: none;
     border-radius: 50%;
     background: #FFF; /* Weißer Hintergrund */
-    border: 2px solid #D3D3D3; /* Grauer Rand */
+    border: 2px solid #808080; /* Grauer Rand */
     margin-right: 10px;
     width: 15px;
     height: 15px;
@@ -86,7 +86,7 @@
   }
   .radio-container input[type='radio']:checked {
     background: #FFF; /* Weißer Hintergrund */
-    border: 2px solid #D3D3D3; /* Grauer Rand */
+    border: 2px solid #808080; /* Grauer Rand */
     width: 15px;
     height: 15px;
     position: relative;
@@ -99,10 +99,20 @@
     transform: translate(-50%, -50%);
     width: 8px; /* Durchmesser des grauen Rings */
     height: 8px; /* Durchmesser des grauen Rings */
-    background: #D3D3D3; /* Grauer Ring */
+    background: #808080; /* Grauer Ring */
     border-radius: 50%;
   }
 </style>
+
+<div class="radio-container">
+  <input type="radio" id="halbjaehrlich" name="zeitraum" value="halbjaehrlich">
+  <label for="halbjaehrlich">Halbjährlich</label>
+</div>
+<div class="radio-container">
+  <input type="radio" id="jaehrlich" name="zeitraum" value="jaehrlich">
+  <label for="jaehrlich">Jährlich</label>
+</div>
+
 
 <div class="radio-container">
   <input type="radio" id="halbjaehrlich" name="zeitraum" value="halbjaehrlich">
