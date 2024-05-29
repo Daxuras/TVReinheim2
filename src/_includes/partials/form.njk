@@ -66,7 +66,18 @@
         ><br>
 
         <!-- Weitere Felder für Geschlecht, Erziehungsberechtigte(r), etc. -->
+<style>
+  .radio-container {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+  }
+</style>
 
+<div class="radio-container">
+  <input type="radio" id="halbjaehrlich" name="zeitraum" value="halbjaehrlich">
+  <label for="halbjaehrlich">Halbjährlich</label>
+</div>
 <label for="beitragszahlung">Beitragszahlung:</label>
 <div id="checkbox-container">
     <input type="radio" id="jaehrlich" name="beitragszahlung" value="jaehrlich">
