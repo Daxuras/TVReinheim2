@@ -369,9 +369,26 @@ textarea {
    */
 
 [type='checkbox'],
+
+/* Stil für Radio-Buttons */
 [type='radio'] {
-  box-sizing: border-box; /* 1 */
-  padding: 0; /* 2 */
+  display: none; /* Verstecke den Standard-Radio-Button */
+}
+
+/* Stil für das benutzerdefinierte Design */
+[type='radio'] + label::before {
+  content: ''; /* Leeres Element vor dem Label */
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px; /* Abstand zwischen dem benutzerdefinierten Radio-Button und dem Text */
+  border: 2px solid #333; /* Rand des benutzerdefinierten Radio-Buttons */
+  border-radius: 50%; /* Kreisförmiger Rand */
+}
+
+/* Stil für ausgewählte Radio-Buttons */
+[type='radio']:checked + label::before {
+  background-color: #333; /* Hintergrundfarbe, wenn ausgewählt */
 }
 
 /**
