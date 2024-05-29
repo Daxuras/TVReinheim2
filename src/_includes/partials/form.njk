@@ -72,12 +72,30 @@
     grid-template-columns: auto 1fr;
     align-items: center;
   }
+  .radio-container input[type='radio'] {
+    appearance: none;
+    border-radius: 50%;
+    background: #FF572233;
+    border: 3px solid #FFF;
+    margin-right: 10px; /* Größerer Abstand zum Text */
+  }
+  .radio-container label {
+    cursor: pointer;
+  }
+  .radio-container input[type='radio']:checked {
+    background: #FF5722; /* Farbe ändern, wenn ausgewählt */
+  }
 </style>
 
 <div class="radio-container">
   <input type="radio" id="halbjaehrlich" name="zeitraum" value="halbjaehrlich">
   <label for="halbjaehrlich">Halbjährlich</label>
 </div>
+<div class="radio-container">
+  <input type="radio" id="jaehrlich" name="zeitraum" value="jaehrlich">
+  <label for="jaehrlich">Jährlich</label>
+</div>
+
 <label for="beitragszahlung">Beitragszahlung:</label>
 <div id="checkbox-container">
     <input type="radio" id="jaehrlich" name="beitragszahlung" value="jaehrlich">
