@@ -118,12 +118,11 @@ h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 0.5;
+  margin-bottom: 2.5rem;
   font-size: 0.9em;
   @media (max-width: 1024px) {
   font-size: 0.7em;
   margin-bottom: 1rem;
-  line-height: 1.6;
   }
 }
 
